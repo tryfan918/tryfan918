@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working 
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
 <!--
 **tryfan918/tryfan918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
