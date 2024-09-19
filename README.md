@@ -1,7 +1,11 @@
 ## Hi there 👋
+
+I am a research scientist with expertise in Python for large-scale data analysis, remote sensing, and geospatial workflows. 
+
 - 🔭 I’m currently working on a workflow that will help to process interferometric synthetic aperture radar (InSAR) data. 
 - 🌱 I’m currently learning how to manage databases using SQL through python APIs.
-- 👯 I’m looking to collaborate on open-source projects that involve processing geospatial data, creating infomrative maps and data visualization. 
+- 👯 I’m looking to collaborate on open-source projects that involve processing geospatial data, creating infomrative maps and data visualization.
+  - If you want to reach out, contact me at huwmithan@gmail.com 
 <!--
 **tryfan918/tryfan918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
