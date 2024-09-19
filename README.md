@@ -19,6 +19,9 @@ Keywords: geospatial data science, remote sensing, Python, InSAR, data processin
  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tryfan918&theme=gruvbox&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tryfan918&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=tryfan918&icon=5&color=12)](https://visitcount.itsvg.in)
 <!--
 **tryfan918/tryfan918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
