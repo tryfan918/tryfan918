@@ -15,7 +15,10 @@ Experienced Geospatial Data Scientist with a focus on Python-based remote sensin
 Keywords: geospatial data science, remote sensing, Python, InSAR, data processing, machine learning, landform mapping, landslide dynamics, permafrost, environmental science, spatial analysis, numerical modeling.
 
 - 👯 I’m looking to collaborate on open-source projects that involve processing geospatial data, creating infomrative maps and data visualization.
-  - If you want to reach out, contact me at huwmithan@gmail.com 
+  - If you want to reach out, contact me at huwmithan@gmail.com
+ 
+![](https://github-readme-streak-stats.herokuapp.com/?user=tryfan918&theme=gruvbox&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tryfan918&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 <!--
 **tryfan918/tryfan918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
