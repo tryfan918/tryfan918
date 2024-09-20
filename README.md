@@ -1,7 +1,7 @@
 ## Hi, I'm Huw 👋
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-Experienced Geospatial Data Scientist with a focus on Python-based remote sensing and data processing.
+Experienced Geospatial Data Scientist with a proven track record in leveraging Python-driven data analysis and remote sensing.
 
 - #### Current Research:
   Collaborating with researchers at the University of Washington to enhance an interferometric synthetic aperture radar (InSAR) workflow, improving automation, data management, and geospatial data processing.
